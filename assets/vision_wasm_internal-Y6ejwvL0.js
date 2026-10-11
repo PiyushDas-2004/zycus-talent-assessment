@@ -1,0 +1,1 @@
+var e=`/assets/vision_wasm_internal-DuEsUYlF.wasm`;export{e as default};

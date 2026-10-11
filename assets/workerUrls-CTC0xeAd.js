@@ -1,0 +1,1 @@
+var e=`/assets/editor.worker-C8DPLl6p.js`,t=`/assets/css.worker-Cd_B-Eon.js`,n=`/assets/html.worker-CXKNUpD_.js`,r=`/assets/json.worker-DPB3pmmH.js`,i=`/assets/ts.worker-D8WFnhyJ.js`,a={editorWorker:e,cssWorker:t,htmlWorker:n,jsonWorker:r,tsWorker:i},o=[i,e,r];export{o as n,a as t};

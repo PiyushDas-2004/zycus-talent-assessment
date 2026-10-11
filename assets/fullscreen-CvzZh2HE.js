@@ -1,0 +1,1 @@
+var e=()=>!!document.fullscreenElement;async function t(t=3e3){if(e())return!0;try{await Promise.race([document.documentElement.requestFullscreen({navigationUI:`hide`}),new Promise(e=>setTimeout(e,t))])}catch{}return e()}async function n(){if(e())try{await document.exitFullscreen()}catch{}}export{n,e as r,t};
